@@ -1,6 +1,7 @@
 # Chat Commands
 
 Simple and straight forward chat commands.
+
 Learning project.
 
 ![ccembed](https://github.com/user-attachments/assets/ead098bf-6bba-4921-9776-492cdb56ed56)  
