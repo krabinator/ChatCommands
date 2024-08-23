@@ -9,6 +9,9 @@ Learning project.
 # Usage
 
 To edit the commands, open config.lua within the folder.
+
 Color is in RGB values.
+
 If you don't want to log commands just replace the quotes on Config.WebhookUrl with nil.
+
 You can include either of the following in the Title of a command for Player recognition; {PlayerName} {PlayerId}
