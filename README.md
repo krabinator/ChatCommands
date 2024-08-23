@@ -2,6 +2,9 @@
 
 Simple and straight forward chat social commands.
 
+![ccembed](https://github.com/user-attachments/assets/ead098bf-6bba-4921-9776-492cdb56ed56)
+![ccimage](https://github.com/user-attachments/assets/f37050c0-7fb8-4251-9f95-8d596af5e039)
+
 # Example Usage
 
 If you don't want to log commands just replace the quotes with nil. Color is in RGB values.
@@ -36,6 +39,3 @@ Config.Commands = {
         Proximity = 50
     }
 }
-
-![ccembed](https://github.com/user-attachments/assets/ead098bf-6bba-4921-9776-492cdb56ed56)
-![ccimage](https://github.com/user-attachments/assets/f37050c0-7fb8-4251-9f95-8d596af5e039)
