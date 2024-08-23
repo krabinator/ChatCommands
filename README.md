@@ -4,7 +4,7 @@ Simple and straight forward chat social commands.
 
 # Example Usage
 
-If you don't want to log the commands just replace the quotes with nil. Color is in RGB values.
+If you don't want to log commands just replace the quotes with nil. Color is in RGB values.
 
 You can include either of the following in the Title of a command for Player recognition; {PlayerName} {PlayerId}
 
